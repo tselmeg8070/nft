@@ -1,4 +1,6 @@
 # Tokenizer
+Sepolia ETH test network
+TSELME42 address: `0xd3E644Ce6576e99AE4dCDb5B50C03bAc219F6c5c`
 
 The TSELME42 smart contract is a Solidity-based contract designed to manage and update messages on the Ethereum blockchain. It is a simple yet illustrative example of how smart contracts can be used to store and update data transparently and securely. This white paper provides a comprehensive overview of the TSELME42 smart contract, its structure, and its functionality.
 
